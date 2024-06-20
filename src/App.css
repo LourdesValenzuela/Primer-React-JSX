@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+#root {
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 10px; 
+}
